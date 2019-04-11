@@ -1,7 +1,7 @@
 [package]
 name = "additive-persistence"
 version = "0.1.0"
-authors = ["diegap <diego.perez@fravega.com.ar>"]
+authors = ["diegap <daperez@gmail.com>"]
 edition = "2018"
 
 [dependencies]
